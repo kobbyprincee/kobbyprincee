@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kobbyprincee
+- 👋 Hi, I’m @williamakoto
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Devops Projects
