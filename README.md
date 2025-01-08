@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wkakoto
+- 👋 Hi, I’m William Kwabena Akoto
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Devops Projects
