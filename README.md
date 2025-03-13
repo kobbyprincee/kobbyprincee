@@ -12,12 +12,12 @@
 
 ## 📫 Connect with me:  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kobbyprince_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in//william-kwabena-akoto-07ab68218)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-kwabena-akoto-07ab68218)  
 
 ---  
 
 ## 🛠 DevOps Tools and Technologies:  
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)  
@@ -28,6 +28,8 @@
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)  
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
+
  
 
 ---  
@@ -37,4 +39,3 @@
 
 ---  
 
-⭐️ _Inspired by [Aglili Selorm Cecil](https://github.com/aglili)_  
