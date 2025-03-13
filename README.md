@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=kobbyprincee-username&color=green)
+
 - 👋 Hi, I’m William Kwabena Akoto
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning AWS
