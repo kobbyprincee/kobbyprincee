@@ -22,7 +22,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?&style=for-the-badge&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)  
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)  
