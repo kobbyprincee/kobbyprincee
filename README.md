@@ -31,14 +31,13 @@
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
 
- 
-<h2 align="center"> Most Used Languages</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=kobbyprincee&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-    referrerpolicy="no-referrer"
-  />
-</p>
+<h2> Most Used Languages</h2>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=kobbyprincee&layout=compact&theme=dark"
+  alt="Top Languages"
+  referrerpolicy="no-referrer"
+/>
+
 
