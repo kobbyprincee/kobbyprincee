@@ -32,8 +32,13 @@
 
 
  
+<h2 align="center"> Most Used Languages</h2>
 
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobbyprincee&layout=compact&theme=dark)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=kobbyprincee&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+    referrerpolicy="no-referrer"
+  />
+</p>
 
