@@ -33,10 +33,7 @@
 
  
 
----  
+## Most Used Languages
 
-## Most Used Languages:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobbyprincee&layout=compact&theme=dark)  
-
----  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobbyprincee&layout=compact&theme=dark)
 
