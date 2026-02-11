@@ -32,12 +32,7 @@
 
 
 
-<h2> Most Used Languages</h2>
+![Metrics](https://metrics.lecoq.io/kobbyprincee)
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=kobbyprincee&layout=compact&theme=dark"
-  alt="Top Languages"
-  referrerpolicy="no-referrer"
-/>
 
 
