@@ -32,7 +32,6 @@
 
 
 
-![Metrics](https://metrics.lecoq.io/kobbyprincee)
 
 
 
